@@ -6,7 +6,7 @@ small wip for practicing reversal on an apparent ECS and internal c++ hack stuff
 
 random implemented kinda stuff
 
-draws esp circles and positions on entities - mostly working, although non-main character npcs have strange Z positions
+draws esp circles and positions on entities - mostly working, although non-main character npcs have strange Z positions and I'm not currently occluding entities behind the player
 
 ghetto no clip - more or less working, use spacebar to move up
 
