@@ -95,7 +95,7 @@
     <ClCompile Include="pch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="BetterReflection.cpp">
+    <ClCompile Include="UwuReflection.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\..\..\..\Desktop\include\imgui-master\imgui.cpp">
