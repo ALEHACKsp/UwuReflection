@@ -14,3 +14,4 @@ free cam - not working, when the camera is in rail mode its *really* on a rail, 
 
 setting player position - works, but needs ui code
 
+buncha debug info
